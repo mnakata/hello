@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <iostream>
 
 int main(int argc, char** argv)
 {
-  puts("Hello World!!\n");
+  std::cout << "Hello World!!\n" << std::endl;
 }
