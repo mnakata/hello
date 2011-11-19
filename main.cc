@@ -1,6 +1,8 @@
 #include <iostream>
 
+namespace std;
+
 int main(int argc, char** argv)
 {
-  std::cout << "Hello World!!\n" << std::endl;
+  cout << "Hello World!!\n" << endl;
 }
